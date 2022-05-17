@@ -2,6 +2,9 @@
   background-color: #546650;
   height: 60vh;
   width: 80vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 img {
@@ -27,7 +30,7 @@ img {
   box-sizing:border-box;
   display:inline-block;
   margin:30px;
-  height:350px;
+  height: 40vh;
   padding:10px;
   position:relative;
   text-align:center;

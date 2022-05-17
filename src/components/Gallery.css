@@ -1,0 +1,35 @@
+.wall {
+  background-color: #546650;
+  height: 60vh;
+  width: 80vw;
+}
+
+img {
+  border:solid 2px;
+  border-bottom-color:#ffe;
+  border-left-color:#eed;
+  border-right-color:#eed;
+  border-top-color:#ccb;
+  max-height:100%;
+  max-width:100%;
+}
+
+.frame {
+  cursor: pointer;
+  background-color:#ddc;
+  border:solid 10px #eee;
+  border-bottom-color:#fff;
+  border-left-color:#eee;
+  border-radius:2px;
+  border-right-color:#eee;
+  border-top-color:#ddd;
+  box-shadow:0 0 5px 0 rgba(0,0,0,.25) inset, 0 5px 10px 5px rgba(0,0,0,.25);
+  box-sizing:border-box;
+  display:inline-block;
+  margin:30px;
+  height:350px;
+  padding:10px;
+  position:relative;
+  text-align:center;
+ 
+}
